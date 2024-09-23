@@ -1,1 +1,1 @@
-Primeiro exercicio usando o git
+Aula de psi
